@@ -28,7 +28,7 @@ Here are a few things I’ve been building:
 ## 📬 Talk to Me!
 If you want to say hi or think my projects are cool, you can reach me here:
 
-- 📧 [olssonerik402@gmail.com](mailto:olssonerik402@gmail.com)
+- 📧 [olssonerik402@gmail.com](https://mailto:olssonerik402@gmail.com)
 
 ---
 
