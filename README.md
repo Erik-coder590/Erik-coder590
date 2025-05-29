@@ -14,9 +14,9 @@ Here are some of the tools and languages I like:
 ## 🧠 What I'm Learning Now
 I’m currently learning:
 
-- `Assembly` (it’s kinda hard but fun)
-- `C`
-- Machine learning like `neural networks`
+- `JavaScript`(for app and web dev)
+- `C`(for game dev)
+- `React`
 
 ## 🎮 Projects I’m Working On
 Here are a few things I’ve been building:
